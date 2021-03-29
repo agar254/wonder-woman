@@ -1,0 +1,40 @@
+{
+  "name": "wonder-woman",
+  "version": "2.1.1",
+  "description": "Useless+Useful agar.io bots",
+  "author": "iamsilent254",
+  "scripts": {
+    "start": "node s.js"
+  },
+  "dependencies": {
+    "auto-git-update": "^2.0.1",
+    "colour": "^0.7.1",
+    "events": "^3.0.0",
+    "express": "^4.17.1",
+    "extend": "^3.0.2",
+    "fs": "0.0.1-security",
+    "https-proxy-agent": "^2.2.4",
+    "javascript-obfuscator": "^2.11.0",
+    "murmurhash-js": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "socks-proxy-agent": "^4.0.2",
+    "ws": "^7.1.2"
+  },
+  "main": "s.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agar254/wonder-woman.git"
+  },
+  "keywords": [
+    "agar",
+    "fair",
+    "wonder-woman"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agar254/wonder-woman/issues"
+  },
+  "homepage": "https://github.com/agar254/wonder-woman#readme"
+}
